@@ -1,0 +1,1 @@
+This error typically occurs when you try to run an Expo managed workflow project with an older version of Expo CLI that doesn't support the project's manifest configuration.  The `expo prebuild` command attempts to prepare your project for building, but fails due to an incompatibility between the project and CLI.
